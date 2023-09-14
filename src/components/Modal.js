@@ -1,4 +1,3 @@
-// Modal.js
 import React, { useEffect } from 'react';
 
 export const Modal = ({ isOpen, imageSrc, imageAlt, onClose }) => {
